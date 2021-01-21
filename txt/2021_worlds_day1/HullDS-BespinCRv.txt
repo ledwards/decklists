@@ -1,0 +1,68 @@
+Christopher Hull - Worlds Day 1 - DS Bespin CRv
+
+STARTING
+Knowledge And Defense (V)
+Bespin
+Combat Readiness (V)
+Cloud City: Security Tower (V)
+Alert My Star Destroyer! (V)
+Endor Shield (V)
+You Cannot Hide Forever & Mobilization Points
+
+ADMIRAL'S ORDERS
+We're In Attack Position Now
+
+CHARACTERS
+4-LOM With Concussion Rifle (V)
+Admiral Chiraneau
+Admiral Ozzel (V)
+Admiral Piett
+Captain Peavey
+Commander Brandei (V)
+Commander Merrejk
+DS-61-5
+Grand Admiral Thrawn
+Grand Moff Tarkin (V)
+2x U-3PO (Yoo-Threepio)
+
+DEVICES
+Deflector Shield Generators (V)
+
+EFFECTS
+2x Dark Waters
+2x Enter The Bureaucrat
+Image Of The Dark Lord (V)
+Imperial Decree (V)
+Tarkin's Bounty (V)
+4x They Must Never Again Leave This City
+
+INTERRUPTS
+Force Push (V)
+Imbalance & Kintan Strider
+2x Imperial Artillery
+3x Imperial Command
+Oh, Switch Off
+Ommni Box & It's Worse
+Overwhelmed
+Podracer Collision
+Relentless Pursuit
+They've Shut Down The Main Reactor
+2x We Must Accelerate Our Plans
+
+LOCATIONS
+Blockade Flagship: Bridge
+Jakku
+Kashyyyk
+Mustafar
+Mustafar: Vader's Castle
+
+STARSHIPS
+Chimaera
+Executor
+Finalizer
+Judicator
+Stalker (V)
+Vengeance (V)
+
+WEAPONS
+2x Laser Cannon Battery
