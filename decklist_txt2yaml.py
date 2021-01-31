@@ -18,6 +18,8 @@ def txt2yaml_and_json(filename="EriksenLS-Legend.txt", directory_name="txt/2020_
               'DEVICES',
               'VEHICLES']
 
+  directory_name_json = directory_name.replace("txt", "json")
+  filename_json = filename.replace(".txt", ".json")
   fh = open(directory_name + filename, 'r')
   out = {}
   deck_info = re.findall(r'(.*)(LS|DS)-(.*)\.txt', filename)
@@ -34,10 +36,21 @@ def txt2yaml_and_json(filename="EriksenLS-Legend.txt", directory_name="txt/2020_
         print("  FILENAME: " + filename)
         print("  FILENAME_WITH_PATH: " + directory_name + filename)
         print("  USERINFO:")
-        print("    - fullname: " + user_info[0][0])
-        print("    - event: "    + user_info[0][1])
-        print("    - deckside: " + user_info[0][2])
-        print("    - deckname: " + user_info[0][3])
+        userinfo_fullname = user_info[0][0]
+        userinfo_event    = user_info[0][1]
+        userinfo_deckside = user_info[0][2]
+        userinfo_deckname = user_info[0][3]
+        print("    - fullname: " + userinfo_fullname)
+        print("    - event: "    + userinfo_event)
+        print("    - deckside: " + userinfo_deckside)
+        print("    - deckname: " + userinfo_deckname)
+        
+        if (not (userinfo_event in index)):
+          index[userinfo_event] = {}
+        if (not (userinfo_deckside in index[userinfo_event])):
+          index[userinfo_event][userinfo_deckside] = {}
+        index[userinfo_event][userinfo_deckside][userinfo_deckname] = re.sub(r'^\.\/', '', directory_name_json) + filename_json
+        
         out[deckname]['userinfo'] = {}
         out[deckname]['userinfo']['fullname'] = user_info[0][0]
         out[deckname]['userinfo']['event']    = user_info[0][1]
@@ -72,8 +85,6 @@ def txt2yaml_and_json(filename="EriksenLS-Legend.txt", directory_name="txt/2020_
           print("    - \"" + card + "\"")
           out[deckname][heading].append(card)
 
-  filename_json = filename.replace(".txt", ".json")
-  directory_name_json = directory_name.replace("txt", "json")
   if (not (os.path.isdir(directory_name_json))):
     os.makedirs(directory_name_json)
   fo = open(directory_name_json + filename_json, "w")
@@ -83,7 +94,7 @@ def txt2yaml_and_json(filename="EriksenLS-Legend.txt", directory_name="txt/2020_
 
 
 
-
+index = {}
 
 event_directories = os.scandir('./txt/')
 for event_directory in event_directories:
@@ -95,7 +106,9 @@ for event_directory in event_directories:
         filename = event_file.name
         txt2yaml_and_json(filename, directory_name)
 
-
+fh = open("json/index.json", "w")
+fh.write(json.dumps(index))
+fh.close()
 
 
 
