@@ -1,12 +1,11 @@
-2021 Match Play Championship Day 1 Kendall Halman's LS TRM
-April 24, 2021
+Kendall Halman - 2021 Match Play Championship Day 1 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Don't Tread On Me (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 BB-8 (Beebee-Ate)
@@ -26,10 +25,10 @@ Rep Been
 Threepio With His Parts Showing (AI)
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Draw Their Fire
 
-Interrupts:
+INTERRUPTS
 4x A Jedi's Resilience
 Clash Of Sabers
 Free Ride & Endor Celebration
@@ -46,12 +45,12 @@ Sense & Recoil In Fear
 2x Were You Looking For Me?
 5x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Ahch-To: Saddle
 Coruscant: Jedi Council Chamber
 Naboo: Battle Plains
 Naboo: Boss Nass' Chambers
 Naboo: Otoh Gunga Entrance
 
-Starships:
+STARSHIPS
 Han, Chewie, And The Falcon (V)

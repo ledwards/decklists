@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Chris Gogolen's DS SYCFA
-May 1, 2021
+Chris Gogolen - 2021 Match Play Championship Top 4 - DS SYCFA
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Set Your Course For Alderaan
 Death Star
@@ -12,7 +11,7 @@ Combat Response (V)
 Kuat Drive Yards (V)
 Something Special Planned For Them (V)
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle (V)
 Baron Soontir Fel
 Boba Fett (V)
@@ -26,16 +25,16 @@ Maul
 The Client
 U-3PO (Yoo-Threepio)
 
-Devices:
+DEVICES
 Death Star Tractor Beam
 
-Effects:
+EFFECTS
 Image Of The Dark Lord (V)
 Imperial Decree (V)
 Lateral Damage
 No Escape
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 All Power To Weapons
 Close Call (V)
@@ -54,12 +53,12 @@ Sith Fury (V)
 Stunning Leader
 Voyeur
 
-Locations:
+LOCATIONS
 Death Star: War Room (V)
 Endor
 Kashyyyk
 
-Starships:
+STARSHIPS
 Colonel Jendon In Onyx 1
 Dengar In Punishing One
 Mara Jade In VT-49 Decimator

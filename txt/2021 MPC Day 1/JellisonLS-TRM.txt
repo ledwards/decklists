@@ -1,12 +1,11 @@
-2021 Match Play Championship Day 1 Ryan Jellison's LS TRM
-April 24, 2021
+Ryan Jellison - 2021 Match Play Championship Day 1 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Don't Tread On Me (V)
 
-Characters:
+CHARACTERS
 Admiral Ackbar (V)
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
@@ -25,10 +24,10 @@ Qui-Gon Jinn With Lightsaber
 2x Rey With Lightsaber
 Threepio With His Parts Showing (AI)
 
-Effects:
+EFFECTS
 Launching The Assault
 
-Interrupts:
+INTERRUPTS
 A Jedi's Resilience
 2x Alter & Friendly Fire (V)
 Blaster Deflection
@@ -44,7 +43,7 @@ Weapon Levitation
 2x Were You Looking For Me?
 2x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Ahch-To: Saddle
 Coruscant: Jedi Council Chamber
 Home One: War Room
@@ -55,7 +54,7 @@ Kamino: Clone Birthing Center
 Naboo: Battle Plains
 Naboo: Boss Nass' Chambers
 
-Starships:
+STARSHIPS
 Artoo-Detoo In Red 5
 Han, Chewie, And The Falcon (V)
 Home One

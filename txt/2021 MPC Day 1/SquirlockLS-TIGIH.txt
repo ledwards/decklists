@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Stephen Squirlock's LS TIGIH
-April 24, 2021
+Stephen Squirlock - 2021 Match Play Championship Day 1 - LS TIGIH
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 There Is Good In Him
 Endor: Chief Chirpa's Hut
@@ -14,7 +13,7 @@ Insurrection & Aim High
 Rebellions Are Built On Hope
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Ackbar (V)
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
@@ -33,12 +32,12 @@ Rey, All Of The Jedi
 Rose Tico
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Launching The Assault
 Leia Of Alderaan (V)
 Menace Fades
 
-Interrupts:
+INTERRUPTS
 A Jedi's Resilience
 Blaster Deflection
 Effective Repairs & Starship Levitation
@@ -53,13 +52,13 @@ Sense
 3x Speak With The Jedi Council
 Where's Han?
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Mon Calamari
 
-Starships:
+STARSHIPS
 Han, Chewie, And The Falcon (V)
 Home One
 Tantive IV (V)

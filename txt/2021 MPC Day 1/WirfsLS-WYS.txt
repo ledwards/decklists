@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Chris Wirfs' LS WYS
-April 24, 2021
+Chris Wirfs' - 2021 Match Play Championship Day 1 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 Chewbacca (V)
 Dash Rendar
@@ -29,12 +28,12 @@ Talon Karrde
 Theron Nett (V)
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 Kessel Run (V)
 Projection Of A Skywalker
 Relatively Unprotected
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 3x All Wings Report In & Darklighter Spin
 Ascension Guns (V)
@@ -54,12 +53,12 @@ Rebel Barrier
 Surprise Assault
 Where's Han?
 
-Locations:
+LOCATIONS
 Corellia (V)
 Kessel (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

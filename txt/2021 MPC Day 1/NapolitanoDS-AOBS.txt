@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jared Napolitano's DS AOBS
-April 24, 2021
+Jared Napolitano - 2021 Match Play Championship Day 1 - DS AOBS
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Agents Of Black Sun
 Coruscant (V)
@@ -12,7 +11,7 @@ Quietly Observing (V)
 Shadows Of The Empire
 Wipe Them Out, All Of Them
 
-Characters:
+CHARACTERS
 Arica (V)
 Aurra Sing With Blaster Rifle
 Boba Fett, Bounty Hunter
@@ -32,10 +31,10 @@ U-3PO (Yoo-Threepio)
 Vigo (V)
 Zam Wesell
 
-Devices:
+DEVICES
 Restraining Bolt
 
-Effects:
+EFFECTS
 Battle Order & First Strike
 Image Of The Dark Lord (V)
 Imperial Decree (V)
@@ -43,7 +42,7 @@ No Escape
 Something Special Planned For Them (V)
 Xizor's Bounty
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 Alter & Collateral Damage (V)
 Cold Feet (V)
@@ -58,13 +57,13 @@ Oo-ta Goo-ta, Solo? (V)
 Tarkin's Orders
 Voyeur
 
-Locations:
+LOCATIONS
 Coruscant: Imperial Square
 Coruscant: Xizor's Palace
 Xizor's Palace: Sewer
 Xizor's Palace: Uplink Station
 
-Starships:
+STARSHIPS
 Falleen's Fist
 Jabba's Space Cruiser (V)
 Maul's Sith Infiltrator

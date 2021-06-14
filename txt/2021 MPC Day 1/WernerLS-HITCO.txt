@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 John Werner's LS HITCO
-April 24, 2021
+John Werner - 2021 Match Play Championship Day 1 - LS HITCO
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 He Is The Chosen One
 Coruscant: Jedi Council Chamber
@@ -13,7 +12,7 @@ Like My Father Before Me
 Wokling (V)
 Your Insight Serves You Well
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Jyn Erso
 Kanan Jarrus
@@ -25,14 +24,14 @@ Lando Calrissian, Scoundrel
 2x Padme Naberrie (V)
 Yoda, Master Of The Force (V)
 
-Devices:
+DEVICES
 Luke's Bionic Hand
 
-Effects:
+EFFECTS
 Honor Of The Jedi
 Stone Pile
 
-Interrupts:
+INTERRUPTS
 Alter & Friendly Fire (V)
 Anakin Skywalker (V)
 2x Blaster Deflection
@@ -50,11 +49,11 @@ Skywalkers
 The Force Is Strong With This One (V)
 Weapon Levitation
 
-Locations:
+LOCATIONS
 Dagobah: Yoda's Hut
 Death Star II: Chasm Walkway
 
-Starships:
+STARSHIPS
 2x Han, Chewie, And The Falcon (V)
 
 Weapons:

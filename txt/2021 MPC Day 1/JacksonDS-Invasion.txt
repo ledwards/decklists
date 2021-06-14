@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Derek Jackson's DS Invasion
-April 24, 2021
+Derek Jackson - 2021 Match Play Championship Day 1 - DS Invasion
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Invasion
 Naboo
@@ -13,7 +12,7 @@ An Entire Legion Of My Best Troops
 Inconsequential Losses
 You'll Be Dead!
 
-Characters:
+CHARACTERS
 3B3-888
 3x B2 Battle Droid
 Battle Droid Officer
@@ -29,10 +28,10 @@ SSA-306
 2x Tank Commander
 Tey How
 
-Effects:
+EFFECTS
 The Phantom Menace (AI)
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 Force Push (V)
 Ghhhk & Those Rebels Won't Escape Us
@@ -43,12 +42,12 @@ Self-Destruct Mechanism
 Stunning Leader
 3x There They Are!
 
-Locations:
+LOCATIONS
 Naboo: Battle Plains
 Naboo: Theed Palace Generator Core
 Naboo: Theed Palace Throne Room
 
-Starships:
+STARSHIPS
 Maul's Sith Infiltrator (AI)
 
 Vehicles:

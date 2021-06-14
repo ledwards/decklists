@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Paul McPherson's LS EBO
-April 24, 2021
+Paul McPherson - 2021 Match Play Championship Day 1 - LS EBO
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Hoth
 Careful Planning (V)
@@ -11,7 +10,7 @@ A New Secret Base
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 BB-8 (Beebee-Ate)
 Captain Hera Syndulla
@@ -24,13 +23,13 @@ Poe Dameron
 2x Rey
 Solo
 
-Effects:
+EFFECTS
 Echo Base Operations
 Haven
 Projection Of A Skywalker
 Strikeforce (V)
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 2x Control & Tunnel Vision
 Effective Repairs & Starship Levitation
@@ -42,14 +41,14 @@ Rebel Leadership (V)
 Take This!
 2x The Bith Shuffle & Desperate Reach
 
-Locations:
+LOCATIONS
 Endor
 Hoth: Echo Command Center (War Room)
 Hoth: Echo Corridor
 Hoth: Echo Docking Bay
 Kiffex
 
-Starships:
+STARSHIPS
 Artoo-Detoo In Red 5
 Bravo Fighter (V)
 Bright Hope (V)

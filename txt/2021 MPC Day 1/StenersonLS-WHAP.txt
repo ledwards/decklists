@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Zack Stenerson's LS WHAP
-April 24, 2021
+Zack Stenerson - 2021 Match Play Championship Day 1 - LS WHAP
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 We Have A Plan
 Naboo: Theed Palace Courtyard
@@ -12,7 +11,7 @@ Jedi Business
 We'll Take The Long Way
 Wokling (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano With Lightsabers
 Anakin Skywalker, Padawan Learner
 CT-5385 (Tup)
@@ -33,13 +32,13 @@ Sio Bibble
 Solo
 Yoda, Master Of The Force (V)
 
-Devices:
+DEVICES
 Landing Claw
 
-Effects:
+EFFECTS
 Disarmed
 
-Interrupts:
+INTERRUPTS
 2x A Jedi's Concentration
 Alter (V)
 Ascension Guns (V)
@@ -58,11 +57,11 @@ See You Around, Kid
 2x Sense
 Sorry About The Mess & Blaster Proficiency
 
-Locations:
+LOCATIONS
 Kamino
 Kamino: Clone Birthing Center
 
-Starships:
+STARSHIPS
 Bravo Fighter (V)
 Ric In Queen's Royal Starship
 

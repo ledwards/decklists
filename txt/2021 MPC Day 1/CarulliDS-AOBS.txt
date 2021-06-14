@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Justin Carulli's DS AOBS
-April 24, 2021
+Justin Carulli - 2021 Match Play Championship Day 1 - DS AOBS
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Agents Of Black Sun
 Coruscant (V)
@@ -12,7 +11,7 @@ Quietly Observing (V)
 Shadows Of The Empire
 Wipe Them Out, All Of Them
 
-Characters:
+CHARACTERS
 2x Aurra Sing With Blaster Rifle
 Baniss Keeg, Pilot Instructor
 Boba Fett, Bounty Hunter
@@ -31,7 +30,7 @@ Ree-Yees (V)
 Vigo (V)
 Wooof (V)
 
-Effects:
+EFFECTS
 Imperial Decree (V)
 No Escape
 Xizor's Bounty
@@ -49,13 +48,13 @@ Monnok
 Tarkin's Orders
 Voyeur
 
-Locations:
+LOCATIONS
 Coruscant: Imperial Square
 Coruscant: Xizor's Palace
 Xizor's Palace: Sewer
 Xizor's Palace: Uplink Station
 
-Starships:
+STARSHIPS
 Elis In Hinthra
 Falleen's Fist
 Jabba's Space Cruiser (V)

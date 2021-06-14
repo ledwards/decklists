@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Adam Trunzo's LS TRM
-April 24, 2021
+Adam Trunzo - 2021 Match Play Championship Day 1 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Heading For The Medical Frigate
@@ -9,7 +8,7 @@ I Must Be Allowed To Speak (V)
 Insurrection & Aim High
 Sai'torr Kal Fas (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Captain Hera Syndulla
@@ -27,10 +26,10 @@ R2-D2 (Artoo-Detoo) (V)
 Solo
 2x Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Leia Of Alderaan (V)
 
-Interrupts:
+INTERRUPTS
 A Jedi's Concentration
 Blaster Deflection
 Clash Of Sabers
@@ -48,7 +47,7 @@ See You Around, Kid
 3x Speak With The Jedi Council
 3x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Home One: Docking Bay
 Hoth: Echo Docking Bay
@@ -56,7 +55,7 @@ Naboo: Battle Plains
 Naboo: Boss Nass' Chambers
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Tantive IV (V)
 
 Weapons:

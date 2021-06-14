@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Scott Lingrell's LS HITCO
-April 24, 2021
+Scott Lingrell - 2021 Match Play Championship Day 1 - LS HITCO
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 He Is The Chosen One
 Coruscant: Jedi Council Chamber
@@ -13,7 +12,7 @@ Another Pathetic Lifeform
 Like My Father Before Me
 Wokling (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Captain Hera Syndulla
 2x Daughter Of Skywalker
@@ -24,14 +23,14 @@ Lieutenant Blount
 2x Obi-Wan With Lightsaber
 2x Yoda, Master Of The Force (V)
 
-Devices:
+DEVICES
 Luke's Bionic Hand
 
-Effects:
+EFFECTS
 Never Tell Me The Odds
 Relatively Unprotected
 
-Interrupts:
+INTERRUPTS
 Alter & Friendly Fire (V)
 Blaster Deflection
 Clash Of Sabers
@@ -50,11 +49,11 @@ Quite A Mercenary (V)
 2x Sense
 Sorry About The Mess & Blaster Proficiency
 
-Locations:
+LOCATIONS
 Dagobah: Yoda's Hut
 Death Star II: Chasm Walkway
 
-Starships:
+STARSHIPS
 Han, Chewie, And The Falcon (V)
 
 Weapons:

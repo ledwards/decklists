@@ -65,4 +65,4 @@ The Falcon
   * `INTERRUPTS`
   * `LOCATIONS`
   * `STARSHIPS`
-  * `WEAPON`
+  * `WEAPONS`

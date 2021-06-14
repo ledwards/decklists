@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Wayne Cullen's LS Y4O
-April 24, 2021
+Wayne Cullen - 2021 Match Play Championship Day 1 - LS Y4O
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Restore Freedom To The Galaxy
 Yavin 4 Base Operations
@@ -12,7 +11,7 @@ Squadron Assignments
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Commander Vanden Willard (V)
 General Dodonna (V)
 General Walex Blissex (V)
@@ -24,13 +23,13 @@ Plo Koon (V)
 Poe Dameron
 Temmin "Snap" Wexley
 
-Effects:
+EFFECTS
 A Vergence In The Force
 Haven
 Legendary Starfighter
 2x Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 Alter & Friendly Fire (V)
 Away Put Your Weapon
@@ -46,12 +45,12 @@ Rapid Fire
 2x Rebel Barrier
 The Bith Shuffle & Desperate Reach
 
-Locations:
+LOCATIONS
 Endor
 Naboo
 Nar Shaddaa
 
-Starships:
+STARSHIPS
 BB-8 In Black Squadron 1
 Blue Squadron 1
 Corran Horn In Rogue 9

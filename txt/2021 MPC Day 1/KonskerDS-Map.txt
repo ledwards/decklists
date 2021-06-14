@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jarad Konsker's DS Map
-April 24, 2021
+Jarad Konsker - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 I Will Finish What You Started
@@ -12,7 +11,7 @@ Jakku: Landing Site
 Bow To The First Order
 The Dead Speak!
 
-Characters:
+CHARACTERS
 2x Allegiant General Pryde
 Captain Peavey
 2x Captain Phasma
@@ -27,14 +26,14 @@ Mara Jade With Lightsaber
 Palpatine, Emperor Returned
 2x Supreme Leader Snoke
 
-Effects:
+EFFECTS
 Blast Door Controls
 Coarse And Rough And Irritating (V)
 First Strike
 Search And Destroy
 2x Specter Of The Supreme Leader
 
-Interrupts:
+INTERRUPTS
 Alter & Collateral Damage (V)
 Close Call (V)
 Force Freeze
@@ -50,11 +49,11 @@ Sith Fury (V)
 They're Still Coming Through!
 You Are Beaten
 
-Locations:
+LOCATIONS
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Drew Lichtenstein's DS Map
-April 24, 2021
+Drew Lichtenstein - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 I Will Finish What You Started
@@ -12,7 +11,7 @@ Jakku: Landing Site
 Bow To The First Order
 The Dead Speak!
 
-Characters:
+CHARACTERS
 3x Allegiant General Pryde
 Captain Peavey
 2x Captain Phasma
@@ -34,7 +33,7 @@ First Strike
 Imperial Decree (V)
 Search And Destroy
 
-Interrupts:
+INTERRUPTS
 2x Close Call (V)
 Force Push (V)
 Ghhhk & Those Rebels Won't Escape Us
@@ -48,11 +47,11 @@ They're Still Coming Through!
 Trooper Assault
 You Are Beaten
 
-Locations:
+LOCATIONS
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle

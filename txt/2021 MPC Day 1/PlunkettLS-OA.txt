@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Winston Plunkett's LS Old Allies
-April 24, 2021
+Winston Plunkett - 2021 Match Play Championship Day 1 - LS Old Allies
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Old Allies
 Jakku
@@ -12,7 +11,7 @@ A Brave Resistance
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Admiral U.O. Statura
 BB-8 (Beebee-Ate)
@@ -35,14 +34,14 @@ Theron Nett (V)
 Tuanul Villager
 Wedge Antilles, Red Squadron Leader
 
-Devices:
+DEVICES
 Han's Toolkit
 Rebel Flight Suit (V)
 
-Effects:
+EFFECTS
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 Control & Tunnel Vision
 Fly Casual
 Free Ride & Endor Celebration
@@ -56,12 +55,12 @@ Perimeter Scan (V)
 Rebel Barrier
 3x Rebel Leadership (V)
 
-Locations:
+LOCATIONS
 Jakku: Rey's Encampment
 Jakku: Starship Graveyard
 Jakku: Tuanul Village
 
-Starships:
+STARSHIPS
 Corellian Corvette
 Tantive IV (V)
 

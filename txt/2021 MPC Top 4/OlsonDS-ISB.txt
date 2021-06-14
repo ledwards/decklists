@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Joe Olson's DS ISB
-May 1, 2021
+Joe Olson - 2021 Match Play Championship Top 4 - DS ISB
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 ISB Operations
 Coruscant
@@ -10,7 +9,7 @@ Endor Shield (V)
 Establish Control (V)
 Imperial Arrest Order
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 Admiral Ozzel
 Admiral Piett
@@ -32,14 +31,14 @@ Stormtrooper Patrol
 2x Tarkin (V)
 Ysanne Isard
 
-Effects:
+EFFECTS
 Coarse And Rough And Irritating (V)
 Image Of The Dark Lord (V)
 Imperial Decree
 Imperial Decree (V)
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 Close Call (V)
 2x Death Squadron Assignment
 Force Push (V)
@@ -51,7 +50,7 @@ Monnok
 Surface Defense (V)
 Trample
 
-Locations:
+LOCATIONS
 Blockade Flagship: Docking Bay
 Death Star II: Docking Bay
 Endor: Landing Platform (Docking Bay)
@@ -59,7 +58,7 @@ Executor: Docking Bay
 Fondor
 Kashyyyk
 
-Starships:
+STARSHIPS
 Emperor's Personal Shuttle
 Stalker (V)
 Steadfast

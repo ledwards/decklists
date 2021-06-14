@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Top 4 Chris Wirfs' LS WYS
-May 1, 2021
+Top 4 Chris Wirfs' - 2021 Match Play Championship Top 4 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -15,7 +14,7 @@ Wokling (V)
 Admiral's Orders:
 No Questions Asked
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 2x Chewie, Enraged
 Dash Rendar
@@ -34,12 +33,12 @@ Theron Nett (V)
 Val
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 Draw Their Fire
 K'lor'slug (V)
 Tatooine Celebration
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 2x All Wings Report In & Darklighter Spin
 Blast The Door, Kid!
@@ -57,11 +56,11 @@ The Bith Shuffle & Desperate Reach
 Weapon Levitation
 2x Where's Han?
 
-Locations:
+LOCATIONS
 Corellia (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Outrider
 Pulsar Skate
 Wild Karrde

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Scott Lingrell's DS Court
-April 24, 2021
+Scott Lingrell - 2021 Match Play Championship Day 1 - DS Court
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Court Of The Vile Gangster
 Jabba's Palace: Audience Chamber
@@ -12,7 +11,7 @@ Battle Order & First Strike
 Jabba's Haven
 Power Of The Hutt
 
-Characters:
+CHARACTERS
 2x Ak-rev
 2x Arica (V)
 Boba Fett, Bounty Hunter
@@ -37,11 +36,11 @@ Tech Mo'r
 Umpass-stay
 Wooof (V)
 
-Effects:
+EFFECTS
 2x Scum And Villainy
 Search And Destroy
 
-Interrupts:
+INTERRUPTS
 2x Blow Parried
 Brief Loss Of Control
 Cease Fire!
@@ -55,12 +54,12 @@ Oo-ta Goo-ta, Solo? (V)
 Twi'lek Advisor (V)
 Wounded Warrior
 
-Locations:
+LOCATIONS
 Coruscant: Docking Bay
 Death Star II: Docking Bay
 Jabba's Sail Barge: Passenger Deck
 Nal Hutta
 
-Starships:
+STARSHIPS
 Elis In Hinthra
 Jabba's Space Cruiser (V)

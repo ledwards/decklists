@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Mike Turner's DS Shadow Collective
-April 24, 2021
+Mike Turner - 2021 Match Play Championship Day 1 - DS Shadow Collective
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Shadow Collective
 Dathomir: Maul's Chambers
@@ -11,7 +10,7 @@ Combat Response (V)
 You Cannot Hide Forever & Mobilization Points
 You'll Be Dead!
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle
 Aemon Gremm With Percussive Cannon
 Asajj Ventress With Lightsabers
@@ -35,14 +34,14 @@ Probot
 Watto (AI)
 Zam Wesell
 
-Effects:
+EFFECTS
 Blast Door Controls
 Inconsequential Losses
 Lateral Damage
 Ng'ok War Beast
 No Escape
 
-Interrupts:
+INTERRUPTS
 Close Call (V)
 Cold Feet (V)
 Defensive Fire (V)
@@ -55,13 +54,13 @@ Point Man (V)
 3x Short Range Fighters & Watch Your Back!
 Wounded Warrior
 
-Locations:
+LOCATIONS
 First Light: Bar
 First Light: Dryden's Study
 First Light: Reception Area
 Gall
 
-Starships:
+STARSHIPS
 Bestoon Legacy
 Slave I, Symbol Of Fear
 Stinger (V)

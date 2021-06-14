@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Vikram Bali's DS Hunt Down
-April 24, 2021
+Vikram Bali - 2021 Match Play Championship Day 1 - DS Hunt Down
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Hunt Down And Destroy The Jedi
 Executor: Holotheatre
@@ -9,7 +8,7 @@ Executor: Meditation Chamber
 Visage Of The Emperor
 Surface Defense (V)
 
-Characters:
+CHARACTERS
 Count Dooku
 Darth Maul
 Darth Maul With Lightsaber
@@ -25,14 +24,14 @@ Mara Jade With Lightsaber
 P-59
 2x Vanee
 
-Effects:
+EFFECTS
 2x I Am Your Father (V)
 No Escape
 Tarkin's Bounty (V)
 The Phantom Menace (AI)
 2x Visage Of The Emperor
 
-Interrupts:
+INTERRUPTS
 Force Field (V)
 Force Lightning
 Force Push (V)
@@ -45,13 +44,13 @@ Point Man (V)
 They're Still Coming Through!
 3x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Cloud City: Downtown Plaza
 Cloud City: Security Tower (V)
 Mustafar: Vader's Castle
 
-Starships:
+STARSHIPS
 2x Emperor's Personal Shuttle
 2x Maul's Sith Infiltrator
 

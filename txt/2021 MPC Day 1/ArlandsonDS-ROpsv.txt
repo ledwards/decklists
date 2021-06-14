@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Charlie Arlandson's DS Ralltiir Operations (V)
-April 24, 2021
+Charlie Arlandson - 2021 Match Play Championship Day 1 - DS Ralltiir Operations (V)
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Ralltiir Operations (V)
 Ralltiir
@@ -10,7 +9,7 @@ Imperial Arrest Order
 Insignificant Rebellion (V)
 You Cannot Hide Forever & Mobilization Points
 
-Characters:
+CHARACTERS
 Admiral Ozzel
 Admiral Piett
 Arica
@@ -36,14 +35,14 @@ Vanee
 Ysanne Isard
 
 
-Effects:
+EFFECTS
 Coarse And Rough And Irritating (V)
 Endor Shield (V)
 Imperial Enforcement
 Search And Destroy
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 Alter
 2x Close Call (V)
 Force Push (V)
@@ -52,7 +51,7 @@ Force Push (V)
 3x Imperial Command
 Surface Defense (V)
 
-Locations:
+LOCATIONS
 Carida
 Executor: Docking Bay
 Spaceport City
@@ -60,7 +59,7 @@ Spaceport Docking Bay
 Spaceport Prefect's Office
 Spaceport Street
 
-Starships:
+STARSHIPS
 Emperor's Personal Shuttle
 Lambda-Class Shuttle
 Vader's Personal Shuttle

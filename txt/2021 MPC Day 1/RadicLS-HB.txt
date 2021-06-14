@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Adam Radic's LS Hidden Base
-April 24, 2021
+Adam Radic - 2021 Match Play Championship Day 1 - LS Hidden Base
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Hidden Base
 Rendezvous Point
@@ -10,7 +9,7 @@ A New Secret Base (V)
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Dash Rendar
 2x Lieutenant Tarn Mison
@@ -19,19 +18,19 @@ Luke Skywalker (V)
 Rey, All Of The Jedi
 Vice Admiral Holdo
 
-Effects:
+EFFECTS
 Haven
 Legendary Starfighter
 2x Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 2x All Wings Report In & Darklighter Spin
 2x Control & Tunnel Vision
 4x On Target
 Out Of Commission & Transmission Terminated
 3x Rebel Leadership (V)
 
-Locations:
+LOCATIONS
 Anoat (V)
 Endor
 Kamino
@@ -39,7 +38,7 @@ Kessel
 Kiffex
 Naboo
 
-Starships:
+STARSHIPS
 4x Acclamator-Class Assault Ship
 4x Corellian Corvette
 Gold Leader In Gold 1 (V)

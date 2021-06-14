@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Casey Johnson's DS Hunt Down
-April 24, 2021
+Casey Johnson - 2021 Match Play Championship Day 1 - DS Hunt Down
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Hunt Down And Destroy The Jedi
 Executor: Holotheatre
@@ -12,7 +11,7 @@ Battle Order & First Strike
 Crush The Rebellion
 I Am Your Father (V)
 
-Characters:
+CHARACTERS
 2x Darth Maul With Lightsaber
 4x Darth Vader, Emperor's Enforcer
 Director Orson Krennic
@@ -26,7 +25,7 @@ U-3PO (Yoo-Threepio)
 2x Vanee
 Ysanne Isard
 
-Effects:
+EFFECTS
 Blast Door Controls
 Image Of The Dark Lord (V)
 Imperial Decree (V)
@@ -35,7 +34,7 @@ Tarkin's Bounty (V)
 The Phantom Menace (AI)
 Visage Of The Emperor
 
-Interrupts:
+INTERRUPTS
 2x Force Field (V)
 Force Lightning
 Force Push (V)
@@ -51,13 +50,13 @@ Sniper & Dark Strike
 Vader's Anger (V)
 3x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Cloud City: Downtown Plaza
 Cloud City: Security Tower (V)
 Mustafar: Vader's Castle
 
-Starships:
+STARSHIPS
 Emperor's Personal Shuttle
 
 Vehicles:

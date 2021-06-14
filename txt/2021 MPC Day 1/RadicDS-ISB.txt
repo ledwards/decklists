@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Adam Radic's DS ISB
-April 24, 2021
+Adam Radic - 2021 Match Play Championship Day 1 - DS ISB
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 ISB Operations
 Coruscant (V)
@@ -10,7 +9,7 @@ Mobilization Points
 Combat Response (V)
 Imperial Arrest Order
 
-Characters:
+CHARACTERS
 5D6-RA-7 (Fivedesix) (V)
 Admiral Ozzel (V)
 2x Agent Kallus
@@ -28,13 +27,13 @@ Officer Evax
 U-3PO (Yoo-Threepio)
 Ysanne Isard
 
-Effects:
+EFFECTS
 Crush The Rebellion
 Imperial Decree
 Imperial Decree (V)
 Presence Of The Force
 
-Interrupts:
+INTERRUPTS
 2x I Can't Shake Him! (V)
 2x Imperial Command
 2x Short Range Fighters & Watch Your Back!
@@ -42,7 +41,7 @@ Interrupts:
 Twi'lek Advisor
 We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Cloud City: Downtown Plaza
 Cloud City: East Platform (Docking Bay)
 Cloud City: Security Tower (V)
@@ -51,7 +50,7 @@ Executor: Docking Bay
 Rendili
 Spaceport Docking Bay
 
-Starships:
+STARSHIPS
 Colonel Jendon In Onyx 1
 Dengar In Punishing One
 Saber 1

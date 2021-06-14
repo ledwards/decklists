@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Nick Reisch's LS Diplo
-April 24, 2021
+Nick Reisch - 2021 Match Play Championship Day 1 - LS Diplo
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Diplomatic Mission To Alderaan
 Tatooine
@@ -14,7 +13,7 @@ I Must Be Allowed To Speak (V)
 Insurrection
 Strike Planning
 
-Characters:
+CHARACTERS
 Bail Organa
 Captain Cassian Andor
 Captain Hera Syndulla
@@ -37,13 +36,13 @@ Rey
 Senator Mon Mothma
 Solo
 
-Effects:
+EFFECTS
 I Don't Like Sand (V)
 Mantellian Savrip
 Menace Fades
 Tatooine Celebration
 
-Interrupts:
+INTERRUPTS
 Antilles Maneuver (V)
 Dodge
 Effective Repairs & Starship Levitation
@@ -59,14 +58,14 @@ Rebel Barrier
 Sense
 They're Tracking Us (V)
 
-Locations:
+LOCATIONS
 Alderaan
 Chandrila
 Tatooine: Cantina
 Tatooine: Lars' Moisture Farm (V)
 Tatooine: Mos Eisley
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Gold Leader In Gold 1 (V)
 Profundity

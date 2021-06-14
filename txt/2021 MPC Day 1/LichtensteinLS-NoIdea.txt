@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Drew Lichtenstein's LS No Idea
-April 24, 2021
+Drew Lichtenstein - 2021 Match Play Championship Day 1 - LS No Idea
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 They Have No Idea We're Coming
 Scarif
@@ -16,7 +15,7 @@ Wokling (V)
 Admiral's Orders:
 2x Combined Fleet Action
 
-Characters:
+CHARACTERS
 Baze Malbus With Cannon
 Beaumont Kin
 Bodhi Rook
@@ -38,12 +37,12 @@ Lieutenant Blount
 Saw Gerrera
 Taidu Sefla
 
-Effects:
+EFFECTS
 Menace Fades
 2x Projection Of A Skywalker
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 Antilles Maneuver (V)
 Jedi Levitation (V)
 Quite A Mercenary (V)
@@ -52,13 +51,13 @@ Sabotage (V)
 3x Wesa Gotta Grand Army
 Where's Han?
 
-Locations:
+LOCATIONS
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Naboo: Boss Nass' Chambers
 Scarif: Beach
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Han, Chewie, And The Falcon (V)
 2x Leia's Resistance Transport

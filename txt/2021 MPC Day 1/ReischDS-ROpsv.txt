@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Nick Reisch's DS ROps V
-April 24, 2021
+Nick Reisch - 2021 Match Play Championship Day 1 - DS ROps V
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Ralltiir Operations (V)
 Ralltiir
@@ -10,7 +9,7 @@ Establish Control (V)
 Imperial Arrest Order & Secret Plans
 Insignificant Rebellion (V)
 
-Characters:
+CHARACTERS
 Admiral Motti (V)
 Admiral Ozzel
 Darth Vader, Emperor's Enforcer
@@ -31,7 +30,7 @@ The Grand Inquisitor
 Vanee
 Ysanne Isard
 
-Effects:
+EFFECTS
 Coarse And Rough And Irritating (V)
 2x Expand The Empire
 Imperial Decree (V)
@@ -39,7 +38,7 @@ Imperial Enforcement
 Search And Destroy
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 Close Call (V)
 Cold Feet (V)
@@ -55,7 +54,7 @@ TIE Sentry Ships (V)
 Trample
 Voyeur
 
-Locations:
+LOCATIONS
 Executor: Docking Bay
 Fondor
 Spaceport City
@@ -63,7 +62,7 @@ Spaceport Docking Bay
 Spaceport Prefect's Office
 Spaceport Street
 
-Starships:
+STARSHIPS
 Conquest (V)
 Emperor's Personal Shuttle
 Mara Jade In VT-49 Decimator

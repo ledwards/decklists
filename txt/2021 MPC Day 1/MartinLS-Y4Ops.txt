@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 James Martin's LS Y4O
-April 24, 2021
+James Martin - 2021 Match Play Championship Day 1 - LS Y4O
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4 Base Operations
 Yavin 4
@@ -11,7 +10,7 @@ Heading For The Medical Frigate
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 3x BB-8 (Beebee-Ate)
 Captain Cassian Andor
 Captain Han Solo
@@ -31,13 +30,13 @@ R2-D2 (Artoo-Detoo) (V)
 Threepio With His Parts Showing
 2x Yoda, Master Of The Force (V)
 
-Devices:
+DEVICES
 2x Fire Extinguisher
 
-Effects:
+EFFECTS
 Reflection
 
-Interrupts:
+INTERRUPTS
 All Wings Report In & Darklighter Spin
 2x Are You Brain Dead?!
 Don't Forget The Droids
@@ -50,11 +49,11 @@ Rebel Artillery
 We're Doomed
 Were You Looking For Me?
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Yavin 4: Massassi Ruins (V)
 
-Starships:
+STARSHIPS
 Artoo-Detoo In Red 5
 Millennium Falcon
 Red 5 (V)

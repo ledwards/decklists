@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 David Woods' DS TDIGWATT
-April 24, 2021
+David Woods' - 2021 Match Play Championship Day 1 - DS TDIGWATT
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 This Deal Is Getting Worse All The Time
 Cloud City: Downtown Plaza
@@ -15,7 +14,7 @@ You Cannot Hide Forever & Mobilization Points
 Admiral's Orders:
 Intensify The Forward Batteries
 
-Characters:
+CHARACTERS
 Admiral Ozzel
 Admiral Piett
 Captain Phasma
@@ -31,14 +30,14 @@ Sergeant Wallen
 2x Stormtrooper Patrol
 Trooper Davin Felth
 
-Effects:
+EFFECTS
 Cloud City Occupation
 Endor Shield (V)
 Strategic Reserves
 Tarkin's Bounty (V)
 4x They Must Never Again Leave This City
 
-Interrupts:
+INTERRUPTS
 4x Dark Jedi Presence
 Force Push (V)
 Point Man (V)
@@ -48,10 +47,10 @@ Sense & Uncertain Is The Future
 They're Still Coming Through!
 4x Trooper Assault
 
-Locations:
+LOCATIONS
 Bespin
 Bespin: Cloud City
 Executor: Docking Bay
 
-Starships:
+STARSHIPS
 Executor

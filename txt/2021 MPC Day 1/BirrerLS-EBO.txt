@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Bob Birrer's LS EBO
-April 24, 2021
+Bob Birrer - 2021 Match Play Championship Day 1 - LS EBO
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Hoth
 Careful Planning (V)
@@ -14,7 +13,7 @@ Wokling (V)
 Admiral's Orders:
 2x Combined Fleet Action
 
-Characters:
+CHARACTERS
 Admiral Ackbar
 Admiral Raddus
 Anakin Skywalker, Padawan Learner
@@ -29,28 +28,28 @@ Poe Dameron
 Rey
 Wedge Antilles, Red Squadron Leader
 
-Effects:
+EFFECTS
 Echo Base Garrison
 Echo Base Operations
 Haven
 Menace Fades
 2x Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 Effective Repairs & Starship Levitation
 It Could Be Worse
 Rebel Barrier
 3x Rebel Leadership (V)
 2x See You Around, Kid
 
-Locations:
+LOCATIONS
 Endor
 Hoth: Echo Command Center (War Room)
 Hoth: Echo Corridor
 Hoth: Echo Docking Bay
 Tatooine
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Corellian Corvette
 Gold Leader In Gold 1 (V)

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Shawn Dickson's DS Hunt Down V
-April 24, 2021
+Shawn Dickson - 2021 Match Play Championship Day 1 - DS Hunt Down V
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Hunt Down And Destroy The Jedi (V)
 Mustafar: Vader's Castle
@@ -12,7 +11,7 @@ Imperial Enforcement
 I Am Your Father (V)
 There Are Many Hunting You Now
 
-Characters:
+CHARACTERS
 3x Darth Vader, Emperor's Enforcer
 2x Eighth Brother
 2x Emperor Palpatine
@@ -23,14 +22,14 @@ Mara Jade With Lightsaber
 2x Seventh Sister
 2x The Grand Inquisitor
 
-Effects:
+EFFECTS
 First Strike
 Image Of The Dark Lord (V)
 No Escape
 Something Special Planned For Them (V)
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 Cold Feet (V)
 3x Far More Frightening Than Death
 2x Force Field (V)
@@ -44,13 +43,13 @@ Sense
 3x We Must Accelerate Our Plans
 You Are Beaten
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Cloud City: Security Tower (V)
 Malachor: Sith Temple Entrance
 Malachor: Sith Temple Upper Chamber
 
-Starships:
+STARSHIPS
 2x Emperor's Personal Shuttle
 
 Weapons:

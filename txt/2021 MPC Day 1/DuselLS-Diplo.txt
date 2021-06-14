@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Timo Dusel's LS Diplo
-April 24, 2021
+Timo Dusel - 2021 Match Play Championship Day 1 - LS Diplo
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Diplomatic Mission To Alderaan
 Tatooine
@@ -14,7 +13,7 @@ I Must Be Allowed To Speak (V)
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Ahsoka Tano
 Bail Organa
@@ -34,12 +33,12 @@ Owen Lars & Beru Lars
 Rey
 Solo
 
-Effects:
+EFFECTS
 Menace Fades
 2x Tatooine Celebration
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 Antilles Maneuver (V)
 2x Houjix & Out Of Nowhere
@@ -54,12 +53,12 @@ Rebel Barrier
 Strike Blocked
 Where's Han?
 
-Locations:
+LOCATIONS
 Alderaan
 Tatooine: Cantina
 Tatooine: Lars' Moisture Farm (V)
 Tatooine: Mos Eisley
 
-Starships:
+STARSHIPS
 The Falcon
 Wedge In Red Squadron 1
