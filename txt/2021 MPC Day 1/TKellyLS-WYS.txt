@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Tom Kelly's LS WYS
-April 24, 2021
+Tom Kelly - 2021 Match Play Championship Day 1 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -15,7 +14,7 @@ Wokling (V)
 Admiral's Orders:
 I'll Take The Leader
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 Chewbacca (V)
 Dash Rendar
@@ -31,10 +30,10 @@ Talon Karrde
 Theron Nett (V)
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 Kessel Run (V)
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 3x All Wings Report In & Darklighter Spin
 Blaster Deflection
@@ -55,12 +54,12 @@ The Bith Shuffle & Desperate Reach
 Weapon Levitation
 Where's Han?
 
-Locations:
+LOCATIONS
 Corellia (V)
 Kessel (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jared Napolitano's LS Profit
-April 24, 2021
+Jared Napolitano - 2021 Match Play Championship Day 1 - LS Profit
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 You Can Either Profit By This...
 Jabba's Palace: Audience Chamber
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Sai'torr Kal Fas (V)
 Seeking An Audience
 
-Characters:
+CHARACTERS
 Aayla Secura
 Anakin Skywalker, Padawan Learner
 BB-8 (Beebee-Ate)
@@ -34,12 +33,12 @@ Rose Tico
 Threepio With His Parts Showing (AI)
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 A Gift
 Draw Their Fire
 Underworld Contacts
 
-Interrupts:
+INTERRUPTS
 Antilles Maneuver (V)
 Clash Of Sabers
 Escape Pod & We're Doomed
@@ -61,7 +60,7 @@ The Bith Shuffle & Desperate Reach
 2x Wesa Gotta Grand Army
 Where's Han?
 
-Locations:
+LOCATIONS
 Jabba's Palace: Antechamber
 Naboo: Boss Nass' Chambers
 Tatooine: Lars' Moisture Farm (V)

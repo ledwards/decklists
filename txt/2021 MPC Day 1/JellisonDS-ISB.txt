@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Ryan Jellison's DS ISB
-April 24, 2021
+Ryan Jellison - 2021 Match Play Championship Day 1 - DS ISB
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 ISB Operations
 Coruscant
@@ -10,7 +9,7 @@ Imperial Arrest Order
 Kuat Drive Yards (V)
 Imperial Enforcement
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 Admiral Ozzel
 2x Agent Kallus
@@ -28,15 +27,15 @@ Sergeant Barich
 Sergeant Irol
 2x Tarkin (V)
 
-Devices:
+DEVICES
 Restraining Bolt
 
-Effects:
+EFFECTS
 Imperial Decree
 Imperial Decree (V)
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 2x Cold Feet (V)
 2x Death Squadron Assignment
 Force Push (V)
@@ -46,7 +45,7 @@ Imbalance & Kintan Strider
 2x Masterful Move & Endor Occupation
 Trample
 
-Locations:
+LOCATIONS
 Bespin
 Cloud City: East Platform (Docking Bay)
 Executor: Docking Bay
@@ -54,7 +53,7 @@ Hoth
 Spaceport Docking Bay
 Yavin 4
 
-Starships:
+STARSHIPS
 Stalker (V)
 Tyrant
 Vengeance (V)

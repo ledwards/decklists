@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Garrett Larson's DS CCT
-April 24, 2021
+Garrett Larson - 2021 Match Play Championship Day 1 - DS CCT
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Carbon Chamber Testing
 Cloud City: Carbonite Chamber
@@ -14,7 +13,7 @@ Jabba's Palace: Dungeon
 Boba Fett (V)
 Boba Fett's Blaster Rifle (V)
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle
 Arica (V)
 Aurra Sing With Blaster Rifle
@@ -40,13 +39,13 @@ Probot
 Wooof (V)
 Zam Wesell
 
-Effects:
+EFFECTS
 Imperial Decree (V)
 Jabba's Haven
 Scum And Villainy
 You'll Be Dead!
 
-Interrupts:
+INTERRUPTS
 Force Push (V)
 Ghhhk
 Imbalance & Kintan Strider
@@ -59,12 +58,12 @@ Projective Telepathy
 Stunning Leader
 2x Twi'lek Advisor (V)
 
-Locations:
+LOCATIONS
 Jabba's Palace: Audience Chamber
 Jabba's Sail Barge: Passenger Deck
 Nal Hutta
 
-Starships:
+STARSHIPS
 Elis In Hinthra
 Jabba's Space Cruiser (V)
 Stinger

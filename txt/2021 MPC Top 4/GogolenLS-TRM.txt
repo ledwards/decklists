@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Chris Gogolen's LS TRM
-May 1, 2021
+Chris Gogolen - 2021 Match Play Championship Top 4 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Heading For The Medical Frigate
@@ -9,7 +8,7 @@ I Must Be Allowed To Speak (V)
 Insurrection & Aim High
 Sai'torr Kal Fas (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Bail Organa
@@ -29,10 +28,10 @@ Princess Leia (V)
 Solo
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Leia Of Alderaan (V)
 
-Interrupts:
+INTERRUPTS
 A Jedi's Concentration
 Blaster Deflection
 Clash Of Sabers
@@ -52,7 +51,7 @@ Sorry About The Mess & Blaster Proficiency
 Weapon Levitation
 3x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Home One: Docking Bay
 Hoth: Echo Docking Bay
@@ -60,7 +59,7 @@ Naboo: Battle Plains
 Naboo: Boss Nass' Chambers
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Tantive IV (V)
 
 Weapons:

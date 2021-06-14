@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Joe Olson's LS TIGIH
-April 24, 2021
+Joe Olson - 2021 Match Play Championship Day 1 - LS TIGIH
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 There Is Good In Him
 I Feel The Conflict
@@ -11,7 +10,7 @@ Luke Skywalker, Rebel Scout (V)
 Luke's Lightsaber
 Don't Tread On Me (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Captain Hera Syndulla
@@ -27,11 +26,11 @@ Qui-Gon Jinn With Lightsaber
 Threepio With His Parts Showing
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Draw Their Fire
 I Don't Like Sand (V)
 
-Interrupts:
+INTERRUPTS
 2x A Jedi's Resilience
 2x All Wings Report In & Darklighter Spin
 Blaster Deflection
@@ -51,10 +50,10 @@ The Bith Shuffle & Desperate Reach
 Were You Looking For Me?
 3x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Naboo: Battle Plains
 Naboo: Boss Nass' Chambers
 
-Starships:
+STARSHIPS
 2x Han, Chewie, And The Falcon (V)

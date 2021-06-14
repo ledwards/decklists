@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Lawrence (Rich) Craft's LS Legend
-April 24, 2021
+Lawrence (Rich) Craft - 2021 Match Play Championship Day 1 - LS Legend
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 The Galaxy May Need A Legend
 Ahch-To
@@ -11,7 +10,7 @@ A Brave Resistance
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral U.O. Statura
 Anakin Skywalker, Padawan Learner
 BB-8 (Beebee-Ate)
@@ -31,12 +30,12 @@ Rey With Lightsaber
 Solo
 Vice Admiral Holdo
 
-Effects:
+EFFECTS
 Menace Fades
 Projection Of A Skywalker
 Relatively Unprotected
 
-Interrupts:
+INTERRUPTS
 All Wings Report In & Darklighter Spin
 Alter & Friendly Fire (V)
 Blaster Deflection
@@ -58,12 +57,12 @@ The Bith Shuffle & Desperate Reach
 They're Tracking Us (V)
 Weapon Levitation
 
-Locations:
+LOCATIONS
 Ahch-To: Luke's Hut
 Ahch-To: Saddle
 Maz's Castle: Antechamber
 
-Starships:
+STARSHIPS
 Tantive IV (V)
 The Falcon
 

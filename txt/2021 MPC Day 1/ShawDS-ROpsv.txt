@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Greg Shaw's DS ROps V
-April 24, 2021
+Greg Shaw - 2021 Match Play Championship Day 1 - DS ROps V
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Ralltiir Operations (V)
 Ralltiir
@@ -10,7 +9,7 @@ Insignificant Rebellion (V)
 Imperial Arrest Order
 You Cannot Hide Forever & Mobilization Points
 
-Characters:
+CHARACTERS
 Admiral Ozzel
 Admiral Piett
 Arica
@@ -35,14 +34,14 @@ The Grand Inquisitor
 Vanee
 Ysanne Isard
 
-Effects:
+EFFECTS
 Coarse And Rough And Irritating (V)
 Endor Shield (V)
 Imperial Enforcement
 Search And Destroy
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 Alter
 2x Close Call (V)
 Force Push (V)
@@ -51,7 +50,7 @@ Force Push (V)
 3x Imperial Command
 Surface Defense (V)
 
-Locations:
+LOCATIONS
 Carida
 Executor: Docking Bay
 Spaceport City
@@ -59,7 +58,7 @@ Spaceport Docking Bay
 Spaceport Prefect's Office
 Spaceport Street
 
-Starships:
+STARSHIPS
 Emperor's Personal Shuttle
 Lambda-Class Shuttle
 Vader's Personal Shuttle

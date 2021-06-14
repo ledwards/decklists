@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Timo Dusel's DS TDIGWATT
-April 24, 2021
+Timo Dusel - 2021 Match Play Championship Day 1 - DS TDIGWATT
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 This Deal Is Getting Worse All The Time
 Cloud City: Upper Walkway
@@ -15,7 +14,7 @@ Mobilization Points
 Admiral's Orders:
 2x Battle Deployment
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 Admiral Ozzel
 Admiral Piett
@@ -31,7 +30,7 @@ Sergeant Barich
 Sergeant Elsek
 Sergeant Irol
 
-Effects:
+EFFECTS
 2x Cloud City Occupation
 Coarse And Rough And Irritating (V)
 Imperial Decree (V)
@@ -39,7 +38,7 @@ Imperial Enforcement
 Tarkin's Bounty (V)
 5x They Must Never Again Leave This City
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 Force Push (V)
 Imperial Barrier
@@ -48,12 +47,12 @@ Imperial Barrier
 Tarkin's Orders
 2x Trample
 
-Locations:
+LOCATIONS
 Bespin
 Cloud City: East Platform (Docking Bay)
 Executor: Docking Bay
 
-Starships:
+STARSHIPS
 Colonel Jendon In Onyx 1
 Executor
 Onyx 2 (V)

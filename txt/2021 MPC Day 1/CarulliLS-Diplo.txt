@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Justin Carulli's LS Diplo
-April 24, 2021
+Justin Carulli - 2021 Match Play Championship Day 1 - LS Diplo
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Diplomatic Mission To Alderaan
 Tatooine
@@ -14,7 +13,7 @@ I Must Be Allowed To Speak (V)
 Sai'torr Kal Fas (V)
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Ahsoka Tano
 BB-8 (Beebee-Ate)
@@ -32,11 +31,11 @@ Poe Dameron
 Rose Tico
 Solo
 
-Effects:
+EFFECTS
 Tatooine Celebration
 What Chance Do We Have?
 
-Interrupts:
+INTERRUPTS
 Artoo, I Have A Bad Feeling About This
 Dodge
 Escape Pod & We're Doomed
@@ -50,13 +49,13 @@ Quite A Mercenary (V)
 4x Rebel Leadership (V)
 2x Sense
 
-Locations:
+LOCATIONS
 Tatooine: Cantina
 Tatooine: Lars' Moisture Farm (V)
 Tatooine: Mos Eisley
 Tatooine: Tosche Station
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Corellian Corvette
 

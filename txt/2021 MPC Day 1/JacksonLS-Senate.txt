@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Derek Jackson's LS Senate
-April 24, 2021
+Derek Jackson - 2021 Match Play Championship Day 1 - LS Senate
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Plead My Case To The Senate
 Coruscant: Galactic Senate
@@ -11,7 +10,7 @@ Sai'torr Kal Fas (V)
 Security Control
 Wokling (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 BB-8 (Beebee-Ate)
 Boss Nass (AI)
@@ -33,11 +32,11 @@ Senator Mon Mothma
 Senator Palpatine (AI)
 Solo
 
-Effects:
+EFFECTS
 Meditation (V)
 Senate Hovercam
 
-Interrupts:
+INTERRUPTS
 A Jedi's Resilience
 Alter & Friendly Fire
 Are You Brain Dead?!
@@ -55,14 +54,14 @@ Sorry About The Mess
 Stay Sharp!
 2x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Docking Bay
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Naboo: Boss Nass' Chambers
 Naboo: Otoh Gunga Entrance
 
-Starships:
+STARSHIPS
 The Falcon
 
 Weapons:

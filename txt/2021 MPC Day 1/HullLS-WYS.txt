@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Christopher Hull's LS WYS
-April 24, 2021
+Christopher Hull - 2021 Match Play Championship Day 1 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -12,7 +11,7 @@ Insurrection & Aim High
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 Chewbacca (V)
 Dash Rendar
@@ -30,11 +29,11 @@ Theron Nett (V)
 Val
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 2x Kessel Run (V)
 Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 3x All Wings Report In & Darklighter Spin
 Antilles Maneuver (V)
@@ -52,13 +51,13 @@ Punch It!
 Rescue In The Clouds (V)
 Where's Han?
 
-Locations:
+LOCATIONS
 Corellia (V)
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Kessel (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

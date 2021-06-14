@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jarad Konsker's LS WYS
-April 24, 2021
+Jarad Konsker - 2021 Match Play Championship Day 1 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -15,7 +14,7 @@ Wokling (V)
 Admiral's Orders:
 I'll Take The Leader
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 Chewbacca (V)
 Dash Rendar
@@ -32,15 +31,15 @@ Talon Karrde
 Theron Nett (V)
 Wedge Antilles (V)
 
-Devices:
+DEVICES
 Han's Toolkit
 
-Effects:
+EFFECTS
 Kessel Run (V)
 Menace Fades
 Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 A Few Maneuvers
 3x All Wings Report In & Darklighter Spin
 2x Control & Tunnel Vision
@@ -58,12 +57,12 @@ Weapon Levitation
 Where's Han?
 You Do Have Your Moments (V)
 
-Locations:
+LOCATIONS
 Corellia (V)
 Kessel (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

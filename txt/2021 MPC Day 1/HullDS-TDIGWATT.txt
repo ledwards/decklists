@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Christopher Hull's DS TDIGWATT
-April 24, 2021
+Christopher Hull - 2021 Match Play Championship Day 1 - DS TDIGWATT
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 This Deal Is Getting Worse All The Time
 Imperial Arrest Order & Secret Plans
@@ -15,7 +14,7 @@ Security Precautions (V)
 Admiral's Orders:
 Intensify The Forward Batteries
 
-Characters:
+CHARACTERS
 Admiral Ozzel
 Admiral Piett
 Captain Phasma
@@ -31,7 +30,7 @@ Stormtrooper
 2x Stormtrooper Patrol
 Trooper Davin Felth
 
-Effects:
+EFFECTS
 Cloud City Occupation
 Strategic Reserves
 Tarkin's Bounty (V)
@@ -40,7 +39,7 @@ You Cannot Hide Forever & Mobilization Points
 
 Epic Events:
 
-Interrupts:
+INTERRUPTS
 4x Dark Jedi Presence
 Force Push (V)
 Point Man (V)
@@ -50,11 +49,11 @@ Sense & Uncertain Is The Future
 Take Evasive Action
 4x Trooper Assault
 
-Locations:
+LOCATIONS
 Bespin
 Bespin: Cloud City
 Death Star II: Docking Bay
 Executor: Docking Bay
 
-Starships:
+STARSHIPS
 Executor

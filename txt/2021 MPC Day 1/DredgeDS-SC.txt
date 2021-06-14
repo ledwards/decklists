@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Dave Dredge's DS Shadow Collective
-April 24, 2021
+Dave Dredge - 2021 Match Play Championship Day 1 - DS Shadow Collective
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Shadow Collective
 Dathomir: Maul's Chambers
@@ -11,7 +10,7 @@ Crush The Rebellion
 Inconsequential Losses
 You'll Be Dead!
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle (V)
 Aurra Sing With Blaster Rifle
 Bala-Tik
@@ -30,12 +29,12 @@ Margo
 Maul
 Prince Xizor
 
-Effects:
+EFFECTS
 No Escape
 Presence Of The Force
 Quick Reflexes
 
-Interrupts:
+INTERRUPTS
 2x A Lawless Time
 Any Methods Necessary
 Cold Feet (V)
@@ -52,12 +51,12 @@ Sense
 Working Much More Closely
 Wounded Warrior
 
-Locations:
+LOCATIONS
 First Light: Bar
 First Light: Dryden's Study
 First Light: Reception Area
 
-Starships:
+STARSHIPS
 Zuckuss In Mist Hunter
 
 Weapons:

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Brian Fred's LS QMC
-April 24, 2021
+Brian Fred - 2021 Match Play Championship Day 1 - LS QMC
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Quiet Mining Colony
 Bespin
@@ -11,7 +10,7 @@ Ancient Watering Hole
 Beldon's Eye & All My Urchins
 Keeping The Empire Out Forever
 
-Characters:
+CHARACTERS
 Aayla Secura
 Arleil Schous
 Baragwin
@@ -40,14 +39,14 @@ Tawss Khaa
 Yoda, Keeper Of The Peace
 2x Yoxgit (V)
 
-Devices:
+DEVICES
 2x Landing Claw
 
-Effects:
+EFFECTS
 Cloud City Celebration
 It's True, All Of It
 
-Interrupts:
+INTERRUPTS
 3x Alternatives To Fighting
 Houjix & Out Of Nowhere
 2x Keep Your Eyes Open (V)
@@ -55,12 +54,12 @@ Houjix & Out Of Nowhere
 2x Rebel Barrier
 2x Rescue In The Clouds (V)
 
-Locations:
+LOCATIONS
 Cloud City: Guest Quarters
 Cloud City: North Corridor
 Cloud City: Platform 327 (Docking Bay)
 Cloud City: Upper Plaza Corridor
 
-Starships:
+STARSHIPS
 Overseer
 Wild Karrde

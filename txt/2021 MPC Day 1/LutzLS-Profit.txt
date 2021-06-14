@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Matthew Lutz's LS Profit
-April 24, 2021
+Matthew Lutz - 2021 Match Play Championship Day 1 - LS Profit
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 You Can Either Profit By This...
 Jabba's Palace: Audience Chamber
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Seeking An Audience (V)
 Wokling (V)
 
-Characters:
+CHARACTERS
 2x BB-8 (Beebee-Ate)
 Baragwin
 Caldera Righim
@@ -30,16 +29,16 @@ Threepio With His Parts Showing (AI)
 Yoda, Keeper Of The Peace
 Yoxgit
 
-Devices:
+DEVICES
 2x Fire Extinguisher
 Landing Claw
 
-Effects:
+EFFECTS
 A Gift
 A Good Blaster At Your Side
 2x Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 2x Control & Tunnel Vision
 Droid Shutdown
 2x Free Ride & Endor Celebration
@@ -54,11 +53,11 @@ We're Doomed
 Weapon Levitation
 2x You Will Take Me To Jabba Now
 
-Locations:
+LOCATIONS
 Jabba's Palace: Antechamber
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Obi-Wan In Radiant VII
 
 Weapons:

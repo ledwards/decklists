@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Kevin Babb's DS Shadow Collective
-April 24, 2021
+Kevin Babb - 2021 Match Play Championship Day 1 - DS Shadow Collective
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Shadow Collective
 Dathomir: Maul's Chambers
@@ -11,7 +10,7 @@ All Wrapped Up
 Inconsequential Losses
 You'll Be Dead!
 
-Characters:
+CHARACTERS
 Aurra Sing With Blaster Rifle
 2x Boba Fett (V)
 Cad Bane
@@ -28,11 +27,11 @@ Ochi
 Prince Xizor
 Zam Wesell
 
-Effects:
+EFFECTS
 Disarmed
 No Escape
 
-Interrupts:
+INTERRUPTS
 2x Any Methods Necessary
 Close Call (V)
 2x Defensive Fire (V)
@@ -51,11 +50,11 @@ Sith Fury (V)
 2x Sniper & Dark Strike
 2x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 First Light: Dryden's Study
 
-Starships:
+STARSHIPS
 Bestoon Legacy
 Slave I, Symbol Of Fear
 Zuckuss In Mist Hunter

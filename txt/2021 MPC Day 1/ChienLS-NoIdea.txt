@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Edward Chien's LS No Idea
-April 24, 2021
+Edward Chien - 2021 Match Play Championship Day 1 - LS No Idea
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 They Have No Idea We're Coming
 Scarif
@@ -16,7 +15,7 @@ Wokling (V)
 Admiral's Orders:
 Taking Them With Us
 
-Characters:
+CHARACTERS
 BB-8 (Beebee-Ate)
 Baze Malbus With Cannon
 Bodhi Rook
@@ -41,13 +40,13 @@ Saw Gerrera
 Taidu Sefla
 Toryn Farr (V)
 
-Effects:
+EFFECTS
 Menace Fades
 Projection Of A Skywalker
 Relatively Unprotected
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 2x Antilles Maneuver (V)
 Control & Tunnel Vision
 Effective Repairs & Starship Levitation
@@ -58,13 +57,13 @@ Sabotage (V)
 Take the Initiative
 Where's Han?
 
-Locations:
+LOCATIONS
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Scarif: Beach
 Scarif: Landing Pad Nine (Docking Bay)
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Han, Chewie, And The Falcon (V)
 Masanya (V)

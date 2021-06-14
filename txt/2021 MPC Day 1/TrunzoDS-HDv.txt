@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Adam Trunzo's DS Hunt Down V
-April 24, 2021
+Adam Trunzo - 2021 Match Play Championship Day 1 - DS Hunt Down V
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Hunt Down And Destroy The Jedi (V)
 Cloud City: Dining Room
@@ -12,7 +11,7 @@ I Am Your Father (V)
 Imperial Enforcement
 There Are Many Hunting You Now
 
-Characters:
+CHARACTERS
 2x Darth Vader, Emperor's Enforcer
 2x Eighth Brother
 2x Emperor Palpatine
@@ -27,7 +26,7 @@ Myn Kyneugh (V)
 The Grand Inquisitor
 Ysanne Isard
 
-Effects:
+EFFECTS
 Blast Door Controls
 First Strike
 No Escape
@@ -35,7 +34,7 @@ Search And Destroy
 Something Special Planned For Them (V)
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 Elis Helrot
 2x Far More Frightening Than Death
 2x Force Field (V)
@@ -47,13 +46,13 @@ Imbalance & Kintan Strider
 3x We Must Accelerate Our Plans
 2x You Are Beaten
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Cloud City: Security Tower (V)
 Malachor: Sith Temple Entrance
 Malachor: Sith Temple Upper Chamber
 
-Starships:
+STARSHIPS
 Emperor's Personal Shuttle
 
 Weapons:

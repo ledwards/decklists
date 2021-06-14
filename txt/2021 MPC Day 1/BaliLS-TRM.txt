@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Vikram Bali's LS TRM
-April 24, 2021
+Vikram Bali - 2021 Match Play Championship Day 1 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Heading For The Medical Frigate
@@ -9,7 +8,7 @@ I Must Be Allowed To Speak (V)
 Insurrection & Aim High
 Sai'torr Kal Fas (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Chewie With Bowcaster
@@ -26,10 +25,10 @@ Solo
 Threepio With His Parts Showing (AI)
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Leia Of Alderaan (V)
 
-Interrupts:
+INTERRUPTS
 A Jedi's Concentration
 A Jedi's Resilience
 Anakin Skywalker (V)
@@ -49,7 +48,7 @@ Skywalkers
 Weapon Levitation
 4x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Home One: Docking Bay
 Hoth: Echo Docking Bay

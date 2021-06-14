@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Matthew Harrison-Trainor's DS Map
-April 24, 2021
+Matthew Harrison-Trainor - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 Jakku: Tuanul Village
@@ -12,7 +11,7 @@ Bow To The First Order
 Kuat Drive Yards (V)
 The Dead Speak!
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 2x Allegiant General Pryde
 Captain Peavey
@@ -28,13 +27,13 @@ Mara Jade With Lightsaber
 Palpatine, Emperor Returned
 Supreme Leader Snoke
 
-Effects:
+EFFECTS
 Image Of The Dark Lord (V)
 Imperial Decree
 Imperial Decree (V)
 Lateral Damage
 
-Interrupts:
+INTERRUPTS
 2x Close Call (V)
 Cold Feet (V)
 Force Push (V)
@@ -46,13 +45,13 @@ They've Shut Down The Main Reactor
 2x Trample
 4x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 D'Qar
 Exegol: Sith Throne
 Jakku
 
-Starships:
+STARSHIPS
 Bossk In Hound's Tooth (V)
 Finalizer
 Steadfast

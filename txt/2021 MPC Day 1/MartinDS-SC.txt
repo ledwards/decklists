@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 James Martin's DS Shadow Collective
-April 24, 2021
+James Martin - 2021 Match Play Championship Day 1 - DS Shadow Collective
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Shadow Collective
 Dathomir: Maul's Chambers
@@ -11,7 +10,7 @@ All Wrapped Up
 Inconsequential Losses
 Quietly Observing (V)
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle (V)
 Arica (V)
 Aurra Sing
@@ -31,14 +30,14 @@ Maul
 Mighty Jabba
 Prince Xizor
 
-Effects:
+EFFECTS
 Disarmed
 I Never Ask That Question
 Quick Reflexes
 Xizor's Bounty
 You'll Be Dead!
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 A Lawless Time
 Cold Feet (V)
@@ -56,7 +55,7 @@ Sonic Bombardment
 They're Still Coming Through!
 Wounded Warrior
 
-Locations:
+LOCATIONS
 Cloud City: Security Tower (V)
 First Light: Bar
 First Light: Dryden's Study

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Brad Kippel's DS Map
-April 24, 2021
+Brad Kippel - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 I Will Finish What You Started
@@ -12,7 +11,7 @@ Jakku: Landing Site
 Bow To The First Order
 The Dead Speak!
 
-Characters:
+CHARACTERS
 3x Allegiant General Pryde
 Captain Peavey
 2x Captain Phasma
@@ -29,10 +28,10 @@ Ochi
 Palpatine, Emperor Returned
 Supreme Leader Snoke
 
-Effects:
+EFFECTS
 2x Lateral Damage
 
-Interrupts:
+INTERRUPTS
 Close Call (V)
 Control & Set For Stun
 Elis Helrot
@@ -49,12 +48,12 @@ They've Shut Down The Main Reactor
 Trooper Assault
 You Are Beaten
 
-Locations:
+LOCATIONS
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle
 Steadfast

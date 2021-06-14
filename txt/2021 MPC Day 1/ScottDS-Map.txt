@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Matt Scott's DS Map
-April 24, 2021
+Matt Scott - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 I Will Finish What You Started
@@ -12,7 +11,7 @@ Bow To The First Order
 The Dead Speak!
 The First Order Was Just The Beginning
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 3x Allegiant General Pryde
 Captain Godherdt
@@ -29,12 +28,12 @@ Mara Jade With Lightsaber
 Palpatine, Emperor Returned
 Supreme Leader Snoke
 
-Effects:
+EFFECTS
 Coarse And Rough And Irritating (V)
 Imperial Decree (V)
 2x Lateral Damage
 
-Interrupts:
+INTERRUPTS
 2x Close Call (V)
 Force Push (V)
 Ghhhk & Those Rebels Won't Escape Us
@@ -45,16 +44,16 @@ Imperial Code Cylinder (V)
 2x They've Shut Down The Main Reactor
 3x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Exegol: Sith Throne
 Kijimi
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle
 Steadfast
 
-Weapons:
+WEAPONS
 Kylo Ren's Lightsaber
 2x Laser Cannon Battery

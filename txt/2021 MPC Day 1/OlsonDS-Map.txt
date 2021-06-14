@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Joe Olson's DS Map
-April 24, 2021
+Joe Olson - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 Jakku: Tuanul Village
@@ -12,7 +11,7 @@ Jakku: Landing Site
 Bow To The First Order
 The Dead Speak!
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 2x Allegiant General Pryde
 Captain Peavey
@@ -30,11 +29,11 @@ Palpatine, Emperor Returned
 Supreme Leader Snoke
 Ysanne Isard
 
-Effects:
+EFFECTS
 Lateral Damage
 No Escape
 
-Interrupts:
+INTERRUPTS
 2x Close Call (V)
 Elis Helrot
 Force Push (V)
@@ -48,12 +47,12 @@ They've Shut Down The Main Reactor
 2x Trooper Assault
 You Are Beaten
 
-Locations:
+LOCATIONS
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle
 Steadfast

@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Charlie Arlandson's LS QMC
-April 24, 2021
+Charlie Arlandson - 2021 Match Play Championship Day 1 - LS QMC
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Quiet Mining Colony
 Bespin
@@ -11,7 +10,7 @@ Ancient Watering Hole
 Beldon's Eye & All My Urchins
 Keeping The Empire Out Forever
 
-Characters:
+CHARACTERS
 Aayla Secura
 Arleil Schous
 Baragwin
@@ -39,13 +38,13 @@ Tawss Khaa
 Yoda, Keeper Of The Peace
 2x Yoxgit (V)
 
-Devices:
+DEVICES
 2x Landing Claw
 
-Effects:
+EFFECTS
 I Don't Like Sand (V)
 
-Interrupts:
+INTERRUPTS
 3x Alternatives To Fighting
 Houjix & Out Of Nowhere
 Jedi Levitation (V)
@@ -54,12 +53,12 @@ Keep Your Eyes Open (V)
 3x Rebel Barrier
 2x Rescue In The Clouds (V)
 
-Locations:
+LOCATIONS
 Cloud City: Guest Quarters
 Cloud City: North Corridor
 Cloud City: Platform 327 (Docking Bay)
 Cloud City: Upper Plaza Corridor
 
-Starships:
+STARSHIPS
 Overseer
 Wild Karrde

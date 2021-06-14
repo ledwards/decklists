@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Matthew Harrison-Trainor's LS Y4O
-April 24, 2021
+Matthew Harrison-Trainor - 2021 Match Play Championship Day 1 - LS Y4O
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4 Base Operations
 Yavin 4 (V)
@@ -12,7 +11,7 @@ Insurrection & Aim High
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 General Dodonna (V)
 2x Harc Seff (V)
 Kin Kian
@@ -24,16 +23,16 @@ Solo
 Temmin "Snap" Wexley
 Wedge Antilles, Red Squadron Leader
 
-Devices:
+DEVICES
 Rebel Flight Suit (V)
 
-Effects:
+EFFECTS
 A Vergence In The Force
 Haven
 Legendary Starfighter
 3x Projection Of A Skywalker
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 2x Effective Repairs & Starship Levitation
 3x Organized Attack
@@ -43,10 +42,10 @@ Rapid Fire
 Rescue In The Clouds (V)
 Stay Sharp!
 
-Locations:
+LOCATIONS
 Nar Shaddaa
 
-Starships:
+STARSHIPS
 BB-8 In Black Squadron 1
 Blue Squadron 1
 Gold Leader In Gold 1 (V)

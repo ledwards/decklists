@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Garrett Larson's LS WYS
-April 24, 2021
+Garrett Larson - 2021 Match Play Championship Day 1 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -15,7 +14,7 @@ Wokling (V)
 Admiral's Orders:
 I'll Take The Leader
 
-Characters:
+CHARACTERS
 Captain Han Solo
 Captain Lando Calrissian
 Chewbacca (V)
@@ -34,12 +33,12 @@ Theron Nett (V)
 Val
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 I Don't Like Sand (V)
 Kessel Run (V)
 Tatooine Celebration
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 Blaster Deflection
 Clash Of Sabers
@@ -55,12 +54,12 @@ Jedi Levitation (V)
 Perimeter Scan (V)
 Rebel Barrier
 
-Locations:
+LOCATIONS
 Corellia (V)
 Kessel (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

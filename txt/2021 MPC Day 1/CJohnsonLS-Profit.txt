@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Casey Johnson's LS Profit
-April 24, 2021
+Casey Johnson - 2021 Match Play Championship Day 1 - LS Profit
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 You Can Either Profit By This...
 Jabba's Palace: Audience Chamber
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Sai'torr Kal Fas (V)
 Seeking An Audience (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Artoo
@@ -32,15 +31,15 @@ Sabine Wren
 Threepio With His Parts Showing
 Yoda, Keeper Of The Peace
 
-Devices:
+DEVICES
 Landing Claw
 
-Effects:
+EFFECTS
 A Gift
 Projection Of A Skywalker
 Underworld Contacts
 
-Interrupts:
+INTERRUPTS
 A Jedi's Concentration
 Alter & Friendly Fire (V)
 Blaster Deflection
@@ -61,11 +60,11 @@ Someone Who Loves You
 Sorry About The Mess & Blaster Proficiency
 The Bith Shuffle & Desperate Reach
 
-Locations:
+LOCATIONS
 Jabba's Palace: Antechamber
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Booster In Pulsar Skate
 
 Weapons:

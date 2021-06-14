@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Sam Tashima's DS Map
-April 24, 2021
+Sam Tashima - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 Jakku: Tuanul Village
@@ -12,7 +11,7 @@ You Know What I've Come For
 Bow To The First Order
 The Dead Speak!
 
-Characters:
+CHARACTERS
 3x Allegiant General Pryde
 Captain Peavey
 2x Captain Phasma
@@ -30,13 +29,13 @@ Palpatine, Emperor Returned
 Supreme Leader Snoke
 Ysanne Isard
 
-Effects:
+EFFECTS
 First Strike
 Imperial Decree (V)
 Search And Destroy
 2x Specter Of The Supreme Leader
 
-Interrupts:
+INTERRUPTS
 2x Close Call (V)
 Force Push (V)
 Ghhhk & Those Rebels Won't Escape Us
@@ -49,12 +48,12 @@ They're Still Coming Through!
 Trooper Assault
 You Are Beaten
 
-Locations:
+LOCATIONS
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Kylo Ren's Command Shuttle
 

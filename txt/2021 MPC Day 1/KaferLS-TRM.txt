@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Bill Kafer's LS TRM
-April 24, 2021
+Bill Kafer - 2021 Match Play Championship Day 1 - LS TRM
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Yavin 4: Massassi Throne Room
 Heading For The Medical Frigate
@@ -9,7 +8,7 @@ I Must Be Allowed To Speak (V)
 Insurrection & Aim High
 Sai'torr Kal Fas (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 Anakin Skywalker, Padawan Learner
 Bail Organa
@@ -27,10 +26,10 @@ Solo
 Threepio With His Parts Showing (AI)
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 Leia Of Alderaan (V)
 
-Interrupts:
+INTERRUPTS
 Blaster Deflection
 Clash Of Sabers
 Escape Pod & We're Doomed
@@ -49,14 +48,14 @@ Skywalkers
 Were You Looking For Me?
 3x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Coruscant: Jedi Council Chamber
 Home One: Docking Bay
 Hoth: Echo Docking Bay
 Naboo: Boss Nass' Chambers
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Leia's Resistance Transport
 Tantive IV (V)
 

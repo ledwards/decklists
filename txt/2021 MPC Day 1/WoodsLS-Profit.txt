@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 David Woods' LS Profit
-April 24, 2021
+David Woods' - 2021 Match Play Championship Day 1 - LS Profit
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 You Can Either Profit By This...
 Jabba's Palace: Audience Chamber
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Sai'torr Kal Fas (V)
 Seeking An Audience
 
-Characters:
+CHARACTERS
 Ahsoka Tano
 2x BB-8 (Beebee-Ate)
 Chewie With Bowcaster
@@ -32,14 +31,14 @@ R2-D2 (Artoo-Detoo) (V)
 Threepio With His Parts Showing (AI)
 Yoda, Master Of The Force (V)
 
-Effects:
+EFFECTS
 A Gift
 Bo Shuda
 Meditation (V)
 Projection Of A Skywalker
 Underworld Contacts
 
-Interrupts:
+INTERRUPTS
 Fallen Portal
 Force Projection
 Hear Me Baby, Hold Together (V)
@@ -54,7 +53,7 @@ Sense
 Sorry About The Mess & Blaster Proficiency
 Weapon Levitation
 
-Locations:
+LOCATIONS
 Jabba's Palace: Antechamber
 Tatooine: Lars' Moisture Farm (V)
 

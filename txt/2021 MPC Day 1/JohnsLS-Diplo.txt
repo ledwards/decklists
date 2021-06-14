@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jeffrey Johns' LS Diplo
-April 24, 2021
+Jeffrey Johns' - 2021 Match Play Championship Day 1 - LS Diplo
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Diplomatic Mission To Alderaan
 Tatooine
@@ -14,7 +13,7 @@ I Must Be Allowed To Speak (V)
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Bail Organa
 Captain Hera Syndulla
@@ -33,13 +32,13 @@ Senator Mon Mothma
 Solo
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 Honor Of The Jedi
 Menace Fades
 2x Tatooine Celebration
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 Alternatives To Fighting
 Antilles Maneuver (V)
@@ -53,13 +52,13 @@ Quite A Mercenary (V)
 2x Rebel Barrier
 2x Rebel Leadership (V)
 
-Locations:
+LOCATIONS
 Alderaan
 Chandrila
 Tatooine: Cantina
 Tatooine: Lars' Moisture Farm (V)
 Tatooine: Mos Eisley
 
-Starships:
+STARSHIPS
 Pulsar Skate
 The Falcon

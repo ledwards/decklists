@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Pierre Dubreuil's LS Hyperdrive V
-April 24, 2021
+Pierre Dubreuil - 2021 Match Play Championship Day 1 - LS Hyperdrive V
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 The Hyperdrive Generator's Gone (V)
 Credits Will Do Fine
@@ -12,7 +11,7 @@ Jedi Business
 We're Leaving (V)
 Wokling (V)
 
-Characters:
+CHARACTERS
 Ahsoka Tano With Lightsabers
 Anakin Skywalker, Padawan Learner
 Artoo, Brave Little Droid (AI)
@@ -29,13 +28,13 @@ Padme Naberrie
 Plo Koon (V)
 Solo
 
-Devices:
+DEVICES
 Obi-Wan's Journal
 
-Effects:
+EFFECTS
 What're You Tryin' To Push On Us?
 
-Interrupts:
+INTERRUPTS
 Alter & Friendly Fire (V)
 Ambush (V)
 2x Blaster Deflection
@@ -56,11 +55,11 @@ Smoke Screen
 2x Sorry About The Mess & Blaster Proficiency
 2x Wesa Gotta Grand Army
 
-Locations:
+LOCATIONS
 Malastare
 Naboo: Boss Nass' Chambers
 
-Starships:
+STARSHIPS
 Acclamator-Class Assault Ship
 Odd Ball's Torrent Starfighter
 Plo Koon's Jedi Starfighter

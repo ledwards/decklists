@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Winston Plunkett's DS Hunt Down
-April 24, 2021
+Winston Plunkett - 2021 Match Play Championship Day 1 - DS Hunt Down
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Hunt Down And Destroy The Jedi
 Executor: Holotheatre
@@ -12,7 +11,7 @@ Crush The Rebellion
 I Am Your Father (V)
 Wipe Them Out, All Of Them
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle
 Boba Fett, Bounty Hunter
 2x Darth Maul With Lightsaber
@@ -26,7 +25,7 @@ P-59
 2x Vanee
 Ysanne Isard
 
-Effects:
+EFFECTS
 First Strike
 Image Of The Dark Lord (V)
 No Escape
@@ -34,7 +33,7 @@ Presence Of The Force
 Tarkin's Bounty
 2x Visage Of The Emperor
 
-Interrupts:
+INTERRUPTS
 Cold Feet (V)
 Evader & Monnok
 Force Field (V)
@@ -47,11 +46,11 @@ Point Man (V)
 6x We Must Accelerate Our Plans
 You Are Beaten
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Blockade Flagship: Hallway
 
-Starships:
+STARSHIPS
 2x Emperor's Personal Shuttle
 Maul's Sith Infiltrator
 

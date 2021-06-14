@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Shawn Dickson's LS Old Allies
-April 24, 2021
+Shawn Dickson - 2021 Match Play Championship Day 1 - LS Old Allies
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Old Allies
 Jakku
@@ -12,7 +11,7 @@ A Brave Resistance
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Admiral U.O. Statura
 BB-8 (Beebee-Ate)
@@ -32,14 +31,14 @@ Padme Naberrie (V)
 Vice Admiral Holdo
 Wedge Antilles, Red Squadron Leader
 
-Devices:
+DEVICES
 Rebel Flight Suit (V)
 
-Effects:
+EFFECTS
 Menace Fades
 You've Got A Lot Of Guts Coming Here
 
-Interrupts:
+INTERRUPTS
 All Wings Report In & Darklighter Spin
 Escape Pod & We're Doomed
 Houjix
@@ -54,12 +53,12 @@ Quite A Mercenary (V)
 3x Rebel Leadership (V)
 Where's Han?
 
-Locations:
+LOCATIONS
 Jakku: Rey's Encampment
 Jakku: Starship Graveyard
 Jakku: Tuanul Village
 
-Starships:
+STARSHIPS
 Leia's Resistance Transport
 Rogue One
 

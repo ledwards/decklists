@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Joe Olson's LS WYS
-May 1, 2021
+Joe Olson - 2021 Match Play Championship Top 4 - LS WYS
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Watch Your Step
 Tatooine
@@ -12,7 +11,7 @@ I Must Be Allowed To Speak (V)
 Squadron Assignments
 Wokling (V)
 
-Characters:
+CHARACTERS
 Captain Lando Calrissian
 Chewbacca (V)
 Dash Rendar
@@ -30,14 +29,14 @@ Theron Nett (V)
 Val
 Wedge Antilles (V)
 
-Effects:
+EFFECTS
 I Don't Like Sand (V)
 Kessel Run (V)
 Menace Fades
 2x Projection Of A Skywalker
 Tatooine Celebration
 
-Interrupts:
+INTERRUPTS
 3x All Wings Report In & Darklighter Spin
 2x Blast The Door, Kid!
 Clash Of Sabers
@@ -53,12 +52,12 @@ Rebel Barrier
 Run Luke, Run!
 Sorry About The Mess & Blaster Proficiency
 
-Locations:
+LOCATIONS
 Corellia (V)
 Kessel (V)
 Tatooine: Lars' Moisture Farm (V)
 
-Starships:
+STARSHIPS
 Millennium Falcon
 Outrider
 Pulsar Skate

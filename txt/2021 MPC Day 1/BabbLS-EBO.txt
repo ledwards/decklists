@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Kevin Babb's LS EBO
-April 24, 2021
+Kevin Babb - 2021 Match Play Championship Day 1 - LS EBO
 
-Starting:
+STARTING
 Anger, Fear, Aggression (V)
 Hoth
 Careful Planning (V)
@@ -11,7 +10,7 @@ A New Secret Base
 Strike Planning
 Wokling (V)
 
-Characters:
+CHARACTERS
 Admiral Raddus
 Captain Hera Syndulla
 General Carlist Rieekan (V)
@@ -28,7 +27,7 @@ Rey
 Solo
 Vice Admiral Holdo
 
-Effects:
+EFFECTS
 Bacta Tank
 Echo Base Operations
 Haven
@@ -36,7 +35,7 @@ Haven
 Strikeforce (V)
 Uncontrollable Fury
 
-Interrupts:
+INTERRUPTS
 Away Put Your Weapon
 Control & Tunnel Vision
 Effective Repairs & Starship Levitation
@@ -47,14 +46,14 @@ Jedi Mind Trick (V)
 Out Of Commission & Transmission Terminated
 3x Rebel Leadership (V)
 
-Locations:
+LOCATIONS
 Endor (V)
 Hoth: Echo Command Center (War Room)
 Hoth: Echo Corridor
 Hoth: Echo Docking Bay
 Naboo
 
-Starships:
+STARSHIPS
 Bright Hope (V)
 Corellian Corvette
 Gold Leader In Gold 1 (V)

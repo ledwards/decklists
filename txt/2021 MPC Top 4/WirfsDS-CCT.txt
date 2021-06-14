@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Chris Wirfs' DS CCT
-May 1, 2021
+Chris Wirfs' - 2021 Match Play Championship Top 4 - DS CCT
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Carbon Chamber Testing
 Cloud City: Carbonite Chamber
@@ -15,7 +14,7 @@ Boba Fett (V)
 Boba Fett's Blaster Rifle (V)
 Slave I, Symbol Of Fear
 
-Characters:
+CHARACTERS
 4-LOM With Concussion Rifle
 Aurra Sing With Blaster Rifle
 Cad Bane
@@ -41,13 +40,13 @@ U-3PO (Yoo-Threepio)
 Wooof (V)
 Zam Wesell
 
-Effects:
+EFFECTS
 Jabba's Haven
 2x Scum And Villainy
 Wipe Them Out, All Of Them
 You'll Be Dead!
 
-Interrupts:
+INTERRUPTS
 Cold Feet (V)
 Ghhhk & Those Rebels Won't Escape Us
 He's All Yours, Bounty Hunter (V)
@@ -61,11 +60,11 @@ Projective Telepathy
 Stunning Leader
 Voyeur
 
-Locations:
+LOCATIONS
 Jabba's Palace: Audience Chamber
 Nal Hutta
 
-Starships:
+STARSHIPS
 Elis In Hinthra
 Jabba's Space Cruiser (V)
 Stinger

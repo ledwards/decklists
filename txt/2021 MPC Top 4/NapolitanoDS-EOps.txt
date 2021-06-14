@@ -1,7 +1,6 @@
-2021 Match Play Championship Top 4 Jared Napolitano's DS EOps
-May 1, 2021
+Jared Napolitano - 2021 Match Play Championship Top 4 - DS EOps
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 Endor Operations
 Endor
@@ -12,7 +11,7 @@ Combat Response (V)
 Establish Control (V)
 Imperial Arrest Order & Secret Plans
 
-Characters:
+CHARACTERS
 Admiral Motti
 Admiral Ozzel
 Baron Soontir Fel
@@ -29,7 +28,7 @@ Maarek Stele, The Emperor's Reach
 Mara Jade With Lightsaber
 Maul
 
-Effects:
+EFFECTS
 Endor Shield (V)
 Establish Secret Base (V)
 Image Of The Dark Lord (V)
@@ -37,7 +36,7 @@ Imperial Decree (V)
 Ominous Rumors
 Tarkin's Bounty (V)
 
-Interrupts:
+INTERRUPTS
 All Power To Weapons
 Cold Feet (V)
 Dark Maneuvers
@@ -50,13 +49,13 @@ Monnok
 Sith Fury (V)
 TIE Sentry Ships (V)
 
-Locations:
+LOCATIONS
 Blockade Flagship: Docking Bay
 Death Star II: Docking Bay
 Executor: Docking Bay
 Fondor
 
-Starships:
+STARSHIPS
 Black 2 (V)
 2x Colonel Jendon In Onyx 1
 Onyx 2

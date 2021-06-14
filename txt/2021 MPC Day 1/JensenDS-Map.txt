@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Jeremie Jensen's DS Map
-April 24, 2021
+Jeremie Jensen - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 Bow To The First Order
@@ -12,7 +11,7 @@ I Will Finish What You Started
 Kuat Drive Yards (V)
 The Dead Speak!
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 Allegiant General Pryde
 Captain Peavey
@@ -31,12 +30,12 @@ Palpatine, Emperor Returned
 Supreme Leader Snoke
 Ysanne Isard
 
-Effects:
+EFFECTS
 Imperial Decree (V)
 Lateral Damage
 Specter Of The Supreme Leader
 
-Interrupts:
+INTERRUPTS
 Close Call (V)
 Cold Feet (V)
 Elis Helrot
@@ -53,14 +52,14 @@ Tarkin's Orders
 2x Trooper Assault
 You Are Beaten
 
-Locations:
+LOCATIONS
 D'Qar
 Exegol: Sith Throne
 Jakku
 Starkiller Base: Forest
 Starkiller Base: Shield Control
 
-Starships:
+STARSHIPS
 Finalizer
 Steadfast
 

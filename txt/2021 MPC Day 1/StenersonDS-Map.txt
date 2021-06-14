@@ -1,7 +1,6 @@
-2021 Match Play Championship Day 1 Zack Stenerson's DS Map
-April 24, 2021
+Zack Stenerson - 2021 Match Play Championship Day 1 - DS Map
 
-Starting:
+STARTING
 Knowledge And Defense (V)
 I Want That Map
 D'Qar
@@ -12,7 +11,7 @@ Bow To The First Order
 The Dead Speak!
 The First Order Was Just The Beginning
 
-Characters:
+CHARACTERS
 Admiral Chiraneau
 2x Allegiant General Pryde
 Captain Peavey
@@ -29,12 +28,12 @@ Palpatine, Emperor Returned
 Supreme Leader Snoke
 Ysanne Isard
 
-Effects:
+EFFECTS
 Lateral Damage
 No Escape
 Specter Of The Supreme Leader
 
-Interrupts:
+INTERRUPTS
 A Dark Time For The Rebellion (V)
 2x Close Call (V)
 Cold Feet (V)
@@ -51,12 +50,12 @@ Sniper & Dark Strike
 They've Shut Down The Main Reactor
 3x We Must Accelerate Our Plans
 
-Locations:
+LOCATIONS
 Blockade Flagship: Bridge
 Exegol: Sith Throne
 Kijimi
 
-Starships:
+STARSHIPS
 Finalizer
 Steadfast
 
